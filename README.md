@@ -1,2 +1,2 @@
-# ocr-android
+# Tesseract Optical Character Recognition (OCR)
 Text recognition for android
